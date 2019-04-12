@@ -1,0 +1,12 @@
+{
+    "name": "Test-Node-Red-Project",
+    "description": "A test project for node-red",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "test-flow.json",
+            "credentialsFile": "test-flow_cred.json"
+        }
+    }
+}
