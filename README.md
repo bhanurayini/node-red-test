@@ -1,5 +1,7 @@
-Test-Node-Red
-=============
+Test-Node-Red-Project
+=====================
+
+A test project for node-red
 
 ### About
 
